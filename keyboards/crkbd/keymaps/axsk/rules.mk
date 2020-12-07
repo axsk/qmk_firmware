@@ -3,6 +3,9 @@
 MOUSEKEY_ENABLE = yes # Mouse keys
 EXTRAKEY_ENABLE = yes # Audio control and System control
 
+OLED_DRIVER_ENABLE  = yes
+
+
 SRC += manna-harbour_miryoku.c # keymap
 
 # select alternative base layer alphas
